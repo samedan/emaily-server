@@ -9,6 +9,7 @@ module.exports = {
   stripePublishableKey: 'pk_test_gJgNpW1KQNGR4DQGcH0v5jZO',
   stripeSecretKey: 'sk_test_DalGcaHh00g3drMQpmqWEUym',
   sendGridKey:
-    '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'
+    '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',
   // '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'
+  redirectDomain: 'http://localhost:3000'
 };
